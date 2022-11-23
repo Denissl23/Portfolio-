@@ -87,23 +87,6 @@
    <td>5</td>
    <td>
       <b>
-         <a href="https://github.com/Denissl23/Portfolio-/blob/main/serbia_work.ipynb">
-         Составление одной спецификации для сербских железных дорог</a>
-     </b>
- </td>
- <td>
-    Объединил множество книг Excel, разделил на категории(материалы, оборудование, работы) и составил одну спецификацию в Python
-</td>
-<td>
-        <code>pandas</code><br>
-        <code>glob</code><br>
-        <code>re</code><br>
-</td>
-</tr>
-<tr>
-   <td>6</td>
-   <td>
-      <b>
          <a href="https://github.com/Denissl23/Portfolio-/blob/main/%D0%BF%D0%B0%D1%80%D1%81%D0%B5%D1%80%20%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B5%CC%88%D1%81%D1%82%D0%BA%D0%B0%20.ipynb">
          Парсинг страницы интернет-гипермаркета</a>
      </b>
