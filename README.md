@@ -41,7 +41,7 @@
 <td>
     <code>pandas</code><br>
     <code>matplotlib</code><br>
-    <code>plotly </code><br>
+    <code>plotly</code><br>
 </td>
 </tr>
 <tr>
